@@ -1,0 +1,1 @@
+This plugin collects responses that have a specified status code (default: 500s). I would have preferred to *not* write this plugin: https://github.com/nccgroup/BurpSuiteLoggerPlusPlus/issues/23 .
